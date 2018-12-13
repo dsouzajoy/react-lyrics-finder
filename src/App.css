@@ -1,0 +1,29 @@
+/*
+body{
+     display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+margin-bottom:100px;
+}
+ 
+ main {
+    flex: 1 0 auto;
+  }
+*/
+.form-div {
+    margin-top:50px;
+}
+
+.disp-lyrics{
+    margin-top:35px;
+    line-height:2em;
+}
+.Footer{
+    position:fixed;
+    bottom:0;
+    width:100%;
+}
+.make-space {
+    margin-top:250px;
+    height:30px;
+}
