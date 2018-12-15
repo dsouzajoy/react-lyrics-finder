@@ -6,12 +6,10 @@ class Footer extends Component {
         <div className="Footer">
         
         <footer className="page-footer">
-          <div className="container">
-                <h5 className="white-text"><small>Developed by : </small><br />Joy Dsouza</h5>
-          </div>
           <div className="footer-copyright">
             <div className="container">
             © 2018 dsouzajoy   |   All rights reserved
+         <a class="grey-text text-lighten-4 right" href="http://github.com/dsouzajoy">GitHub</a>
             </div>
           </div>
         </footer>

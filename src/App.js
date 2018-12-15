@@ -50,7 +50,14 @@ handleSubmit = (e) => {
         </form>
         </div>
         <div className="disp-lyrics container">
-        {lyrics}
+        {lyrics.split("\n").map(function(line){
+        return(
+            <span>
+             {line}
+             <br />
+            </span>
+        )
+    })}
         </div>
         <div className="make-space">
         <Footer />
