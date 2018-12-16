@@ -10,12 +10,14 @@ margin-bottom:100px;
     flex: 1 0 auto;
   }
 */
+
 .form-div {
     margin-top:50px;
 }
 
 .disp-lyrics{
     margin-top:35px;
+/*    font-family: 'Montserrat', sans-serif;*/
 }
 .Footer{
     position:fixed;
